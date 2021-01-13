@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I like cricket, data science, Haskell and a few other bits.
+
+
 <!--
 **RileyEv/RileyEv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
